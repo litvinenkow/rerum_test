@@ -1,2 +1,2 @@
 # rerum_test
-Test Case fo Rerum
+Test Case for Rerum
